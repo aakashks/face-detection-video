@@ -1,0 +1,8 @@
+numpy
+opencv-python
+matplotlib
+torch
+pillow
+fire
+facenet-pytorch
+deep-sort-realtime
